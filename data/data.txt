@@ -1,0 +1,240 @@
+
+#############################horse_ears_1.xml#############################
+
+
+habit_horse_image_dataset_positive_1.jpg : false
+habit_horse_image_dataset_positive_10.jpg : false
+habit_horse_image_dataset_positive_100 (1).jpg : false
+habit_horse_image_dataset_positive_101 (1).jpg : true
+Saving copy of habit_horse_image_dataset_positive_101 (1).jpg with detection marked...
+habit_horse_image_dataset_positive_101.jpg : true
+Saving copy of habit_horse_image_dataset_positive_101.jpg with detection marked...
+habit_horse_image_dataset_positive_102.jpg : false
+habit_horse_image_dataset_positive_103 (1).jpg : false
+habit_horse_image_dataset_positive_103.jpg : false
+habit_horse_image_dataset_positive_104.jpg : false
+habit_horse_image_dataset_positive_105.jpg : false
+habit_horse_image_dataset_positive_108.jpg : false
+habit_horse_image_dataset_positive_109.jpg : true
+Saving copy of habit_horse_image_dataset_positive_109.jpg with detection marked...
+habit_horse_image_dataset_positive_11.jpg : false
+habit_horse_image_dataset_positive_110.jpg : false
+habit_horse_image_dataset_positive_111.jpg : true
+Saving copy of habit_horse_image_dataset_positive_111.jpg with detection marked...
+habit_horse_image_dataset_positive_112.jpg : false
+habit_horse_image_dataset_positive_113.jpg : false
+habit_horse_image_dataset_positive_114.jpg : false
+habit_horse_image_dataset_positive_115 (1).jpg : false
+habit_horse_image_dataset_positive_115.jpg : false
+habit_horse_image_dataset_positive_12.jpg : false
+habit_horse_image_dataset_positive_13 (1).jpg : false
+habit_horse_image_dataset_positive_13.jpg : false
+habit_horse_image_dataset_positive_14.jpg : true
+Saving copy of habit_horse_image_dataset_positive_14.jpg with detection marked...
+habit_horse_image_dataset_positive_15.jpg : false
+habit_horse_image_dataset_positive_16 (1).jpg : false
+habit_horse_image_dataset_positive_17.jpg : false
+habit_horse_image_dataset_positive_18.jpg : false
+habit_horse_image_dataset_positive_19 (1).jpg : false
+habit_horse_image_dataset_positive_2.jpg : false
+habit_horse_image_dataset_positive_20.jpg : false
+habit_horse_image_dataset_positive_21.jpg : false
+habit_horse_image_dataset_positive_22.jpg : false
+habit_horse_image_dataset_positive_24.jpg : false
+habit_horse_image_dataset_positive_25.jpg : false
+habit_horse_image_dataset_positive_26.jpg : false
+habit_horse_image_dataset_positive_27.jpg : false
+habit_horse_image_dataset_positive_28.jpg : false
+habit_horse_image_dataset_positive_29.jpg : true
+Saving copy of habit_horse_image_dataset_positive_29.jpg with detection marked...
+habit_horse_image_dataset_positive_3 (1).jpg : false
+habit_horse_image_dataset_positive_30 (1).jpg : false
+habit_horse_image_dataset_positive_31.jpg : false
+habit_horse_image_dataset_positive_33 (1).jpg : false
+habit_horse_image_dataset_positive_34.jpg : false
+habit_horse_image_dataset_positive_35.jpg : false
+habit_horse_image_dataset_positive_37.jpg : true
+Saving copy of habit_horse_image_dataset_positive_37.jpg with detection marked...
+habit_horse_image_dataset_positive_38.jpg : false
+habit_horse_image_dataset_positive_4 (1).jpg : false
+habit_horse_image_dataset_positive_40 (1).jpg : false
+habit_horse_image_dataset_positive_41 (1).jpg : false
+habit_horse_image_dataset_positive_42.jpg : false
+habit_horse_image_dataset_positive_43.jpg : false
+habit_horse_image_dataset_positive_44.jpg : false
+habit_horse_image_dataset_positive_47.jpg : false
+habit_horse_image_dataset_positive_49.jpg : false
+habit_horse_image_dataset_positive_5 (1).jpg : false
+habit_horse_image_dataset_positive_51.jpg : false
+habit_horse_image_dataset_positive_52 (1).jpg : false
+habit_horse_image_dataset_positive_55.jpg : false
+habit_horse_image_dataset_positive_59.jpg : false
+habit_horse_image_dataset_positive_60.jpg : false
+habit_horse_image_dataset_positive_61.jpg : false
+habit_horse_image_dataset_positive_63.jpg : false
+habit_horse_image_dataset_positive_64.jpg : true
+Saving copy of habit_horse_image_dataset_positive_64.jpg with detection marked...
+habit_horse_image_dataset_positive_65.jpg : false
+habit_horse_image_dataset_positive_66.jpg : false
+habit_horse_image_dataset_positive_67.jpg : false
+habit_horse_image_dataset_positive_68.jpg : false
+habit_horse_image_dataset_positive_69.jpg : false
+habit_horse_image_dataset_positive_7.jpg : false
+habit_horse_image_dataset_positive_70.jpg : false
+habit_horse_image_dataset_positive_71 (1).jpg : false
+habit_horse_image_dataset_positive_72.jpg : false
+habit_horse_image_dataset_positive_73.jpg : false
+habit_horse_image_dataset_positive_74.jpg : true
+Saving copy of habit_horse_image_dataset_positive_74.jpg with detection marked...
+habit_horse_image_dataset_positive_75.jpg : false
+habit_horse_image_dataset_positive_76 (1).jpg : false
+habit_horse_image_dataset_positive_77.jpg : false
+habit_horse_image_dataset_positive_78.jpg : false
+habit_horse_image_dataset_positive_79.jpg : false
+habit_horse_image_dataset_positive_80.jpg : false
+habit_horse_image_dataset_positive_81.jpg : false
+habit_horse_image_dataset_positive_82.jpg : false
+habit_horse_image_dataset_positive_83.jpg : false
+habit_horse_image_dataset_positive_84.jpg : false
+habit_horse_image_dataset_positive_85.jpg : true
+Saving copy of habit_horse_image_dataset_positive_85.jpg with detection marked...
+habit_horse_image_dataset_positive_86.jpg : true
+Saving copy of habit_horse_image_dataset_positive_86.jpg with detection marked...
+habit_horse_image_dataset_positive_87.jpg : false
+habit_horse_image_dataset_positive_88 (1).jpg : false
+habit_horse_image_dataset_positive_89 (1).jpg : false
+habit_horse_image_dataset_positive_9.jpg : false
+habit_horse_image_dataset_positive_90.jpg : true
+Saving copy of habit_horse_image_dataset_positive_90.jpg with detection marked...
+habit_horse_image_dataset_positive_91.jpg : true
+Saving copy of habit_horse_image_dataset_positive_91.jpg with detection marked...
+habit_horse_image_dataset_positive_92 (1).jpg : false
+habit_horse_image_dataset_positive_93.jpg : false
+habit_horse_image_dataset_positive_94.jpg : false
+habit_horse_image_dataset_positive_95.jpg : false
+habit_horse_image_dataset_positive_96.jpg : false
+habit_horse_image_dataset_positive_97.jpg : false
+habit_horse_image_dataset_positive_99.jpg : true
+Saving copy of habit_horse_image_dataset_positive_99.jpg with detection marked...
+shutterstock_38432761 (1).jpg : true
+Saving copy of shutterstock_38432761 (1).jpg with detection marked...
+
+
+neg (1).jpg : true
+Saving copy of neg (1).jpg with detection marked...
+neg (10).jpg : false
+neg (100).jpg : true
+Saving copy of neg (100).jpg with detection marked...
+neg (101).jpg : false
+neg (102).jpg : true
+Saving copy of neg (102).jpg with detection marked...
+neg (103).jpg : false
+neg (104).jpg : false
+neg (11).jpg : false
+neg (12).jpg : false
+neg (13).jpg : true
+Saving copy of neg (13).jpg with detection marked...
+neg (14).jpg : false
+neg (15).jpg : false
+neg (16).jpg : true
+Saving copy of neg (16).jpg with detection marked...
+neg (17).jpg : false
+neg (19).jpg : false
+neg (2).jpg : false
+neg (20).jpg : false
+neg (21).jpg : false
+neg (22).jpg : false
+neg (23).jpg : true
+Saving copy of neg (23).jpg with detection marked...
+neg (24).jpg : false
+neg (25).jpg : false
+neg (26).jpg : false
+neg (27).jpg : true
+Saving copy of neg (27).jpg with detection marked...
+neg (28).jpg : false
+neg (29).jpg : false
+neg (3).jpg : false
+neg (30).jpg : false
+neg (31).jpg : false
+neg (32).jpg : false
+neg (33).jpg : false
+neg (35).jpg : false
+neg (36).jpg : false
+neg (37).jpg : false
+neg (38).jpg : false
+neg (39).jpg : false
+neg (4).jpg : false
+neg (40).jpg : false
+neg (41).jpg : false
+neg (42).jpg : false
+neg (43).jpg : false
+neg (45).jpg : false
+neg (46).jpg : false
+neg (47).jpg : true
+Saving copy of neg (47).jpg with detection marked...
+neg (48).jpg : false
+neg (49).jpg : false
+neg (5).jpg : false
+neg (50).jpg : false
+neg (51).jpg : false
+neg (52).jpg : false
+neg (53).jpg : false
+neg (54).jpg : false
+neg (55).jpg : false
+neg (56).jpg : false
+neg (57).jpg : false
+neg (58).jpg : true
+Saving copy of neg (58).jpg with detection marked...
+neg (59).jpg : true
+Saving copy of neg (59).jpg with detection marked...
+neg (6).jpg : false
+neg (60).jpg : true
+Saving copy of neg (60).jpg with detection marked...
+neg (61).jpg : false
+neg (62).jpg : false
+neg (63).jpg : false
+neg (64).jpg : false
+neg (65).jpg : false
+neg (66).jpg : true
+Saving copy of neg (66).jpg with detection marked...
+neg (67).jpg : false
+neg (68).jpg : false
+neg (69).jpg : false
+neg (7).jpg : false
+neg (70).jpg : true
+Saving copy of neg (70).jpg with detection marked...
+neg (71).jpg : false
+neg (72).jpg : false
+neg (73).jpg : false
+neg (74).jpg : false
+neg (76).jpg : false
+neg (77).jpg : false
+neg (78).jpg : false
+neg (79).jpg : false
+neg (8).jpg : true
+Saving copy of neg (8).jpg with detection marked...
+neg (80).jpg : false
+neg (81).jpg : true
+Saving copy of neg (81).jpg with detection marked...
+neg (82).jpg : false
+neg (84).jpg : false
+neg (85).jpg : false
+neg (86).jpg : false
+neg (87).jpg : false
+neg (88).jpg : false
+neg (89).jpg : false
+neg (9).jpg : false
+neg (90).jpg : false
+neg (91).jpg : false
+neg (92).jpg : false
+neg (93).jpg : false
+neg (94).jpg : false
+neg (95).jpg : false
+neg (96).jpg : false
+neg (97).jpg : false
+neg (98).jpg : false
+neg (99).jpg : false
+neg.jpg : false
+
+Hit Rate: 15 out of 101: 14.85%
+False Alarms: 15 out of 100: 15.0%
