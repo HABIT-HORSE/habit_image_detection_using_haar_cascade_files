@@ -16,12 +16,18 @@ Command line options:
 default="target object"
 
 "-d", "--display" = if detected, display query image with boundary box
-default="false",
+default="false"
 	
 "-s", "--save" = if detected, save query image with boundary box
-default="true",
+default="true"
+
+"-dh", "--displayHits" = if detected, display images that trigger detector with ROI marked up
+default="false"
+
+--doFlipFrame If the doFlipFrame argument is specified (no value required) then, in addition to initial image orientation, if there isn't a hit, then the image will be vertically flipped around the vertical axis and retested. If not specified, then images will not be flipped.
+default="false"
 
 :comment
 
-detect.py --target horse_ears --display false --save true
+detect.py --target horse_ears --display false --displayHits false --save true
 pause
